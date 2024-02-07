@@ -13,7 +13,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.example.littlelemon.navigation.Home
 import com.example.littlelemon.navigation.Profile
 import com.example.littlelemon.ui.theme.primaryColor2
 
