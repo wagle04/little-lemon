@@ -13,7 +13,12 @@ val KarlaFont = FontFamily(
     Font(R.font.karla_regular, FontWeight.Black, FontStyle.Normal),
     Font(R.font.karla_regular, FontWeight.Bold, FontStyle.Normal),
     Font(R.font.karla_regular, FontWeight.ExtraBold, FontStyle.Normal)
+)
 
+val Markazi = FontFamily(
+    Font(R.font.markazitext_regular, FontWeight.Black, FontStyle.Normal),
+    Font(R.font.markazitext_regular, FontWeight.Bold, FontStyle.Normal),
+    Font(R.font.markazitext_regular, FontWeight.ExtraBold, FontStyle.Normal)
 )
 
 // Set of Material typography styles to start with
@@ -24,6 +29,7 @@ val Typography = Typography(
         fontWeight = FontWeight.Normal,
         fontSize = 16.sp
     ),
+
 
 //    button = TextStyle(
 //        fontFamily = KarlaFont,
